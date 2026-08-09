@@ -60,7 +60,7 @@ Problem: Check if a password is "Weak", "Medium", or "Strong". Criteria: < 6 cha
 
 
 <details>
-<summary>9. Leap Year Checker
+<summary>**9. Leap Year Checker**
 </summary>
 Problem: Determine if a year is a leap year. (Leap years are divisible by 4, but not by 100 unless also divisible by 400).
 
