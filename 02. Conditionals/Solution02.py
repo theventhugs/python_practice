@@ -25,12 +25,11 @@ while(True):
         print("Please enter an integer number greater than 0")
 
 # The core logic
-price = 0
-
-if age < 18:
-    price = 8
-else:
-    price = 12
+# if age < 18:
+#     price = 8
+# else:
+#     price = 12
+price = 12 if age >= 18 else 8
 
 if day == "wednesday":
     price -= 2
