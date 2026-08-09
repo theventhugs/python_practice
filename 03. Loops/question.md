@@ -33,7 +33,7 @@ Problem: Print the multiplication table for a given number up to 10, but skip th
 
 <details>
 <summary>
-4. Reverse a String
+**4. Reverse a String**
 </summary>
 Problem: Reverse a string using a loop.
 
