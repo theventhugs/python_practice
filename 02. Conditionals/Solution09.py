@@ -12,6 +12,7 @@ while(True):
         print("Please enter an int value greater than 0")
 
 # the Core logic
+"""
 if year % 4 == 0:
     if year % 100 != 0:
         print("A leap year")
@@ -21,3 +22,8 @@ if year % 4 == 0:
         print("Not a leap year")
 else:
     print("Not a leap year")
+"""
+if (year % 400 == 0) or (year % 4 == 0 and year % 100 != 0):
+    print( year, " is a leap year")
+else:
+    print(year, "is NOT a leap year")
