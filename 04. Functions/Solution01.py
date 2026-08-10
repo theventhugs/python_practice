@@ -3,14 +3,17 @@
 def square(n):
     return (n*n)
 
-def get_positive_int(message, zero="N"):
+def get_positive_int(message, is_zero="N", is_float = "N"):
     while True:
         try:
-            num = int(input(message).strip())
+            num = float(input(message).strip())
+            if is_float == "N":
+                num = int(num)
+                break
             if num < 0:
                 print("number entered is not positive!")
                 continue
-            elif num == 0 and zero == "N":
+            elif num == 0 and is_zero == "N":
                 print("Zero is not allowed")
                 continue
             break
