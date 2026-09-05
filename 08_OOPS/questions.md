@@ -28,14 +28,14 @@ Problem: Create an ElectricCar class that inherits from the Car class and has an
 
 <details>
 <summary>
-4. Encapsulation
+***4. Encapsulation***
 </summary>
 Problem: Modify the Car class to encapsulate the brand attribute, making it private, and provide a getter method for it.
 </details>
 
 <details>
 <summary>
-5. Polymorphism
+***5. Polymorphism***
 </summary>
 Problem: Demonstrate polymorphism by defining a method fuel_type in both Car and ElectricCar classes, but with different behaviors.
 </details>
