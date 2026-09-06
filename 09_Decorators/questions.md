@@ -19,7 +19,7 @@ Problem: Create a decorator to print the function name and the values of its arg
 
 <details>
 <summary>
-Problem 3: Cache Return Values
+***Problem 3: Cache Return Values***
 </summary>
 Problem: Implement a decorator that caches the return values of a function, so that when it's called with the same arguments, the cached value is returned instead of re-executing the function.
 </details>
