@@ -63,7 +63,7 @@ Problem: Add a static method to the Car class that returns a general description
 
 <details>
 <summary>
-8. Property Decorators
+***8. Property Decorators***
 </summary>
 Problem: Use a property decorator in the Car class to make the model attribute read-only.
 </details>
