@@ -11,7 +11,7 @@ Problem: Write a decorator that measures the time a function takes to execute.
 
 <details>
 <summary>
-Problem 2: Debugging Function Calls
+***Problem 2: Debugging Function Calls***
 </summary>
 Problem: Create a decorator to print the function name and the values of its arguments every time the function is called.
 </details>
